@@ -50,3 +50,25 @@ npm install
 npm run dev
 ```
 
+---
+
+## 🔧 Customize
+
+Modify Orb props:
+
+```bash
+<Orb
+  totalImages={30}
+  totalItems={100}
+  baseWidth={1}
+  baseHeight={0.6}
+  sphereRadius={5}
+  backgroundColor="3b3b3b"
+/>
+```
+
+---
+
+### 👤 Author
+
+Made with style by Yajii
